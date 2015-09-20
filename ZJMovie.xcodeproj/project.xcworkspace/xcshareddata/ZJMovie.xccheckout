@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>74544665-E024-463B-ACCC-3B481791A14E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ZJMovie</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8C07E072B246327B16895C0936EE8FD2A6271F9D</key>
+		<string>https://git.oschina.net/qianniansi/timerAPP.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>03-ZJMovie/ZJMovie.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8C07E072B246327B16895C0936EE8FD2A6271F9D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/qianniansi/timerAPP.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8C07E072B246327B16895C0936EE8FD2A6271F9D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8C07E072B246327B16895C0936EE8FD2A6271F9D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>timerAPP</string>
+		</dict>
+	</array>
+</dict>
+</plist>

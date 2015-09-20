@@ -1,0 +1,148 @@
+{
+    "aka_en" : [
+                "John Paul Cusack (本名)",
+                "Johnny (昵称)"
+                ],
+    "gender" : "男",
+    "name_en" : "John Cusack",
+    "aka" : [
+    
+    ],
+    "alt" : "http:\/\/movie.douban.com\/celebrity\/1018986\/",
+    "born_place" : "美国,伊利诺斯州,埃文斯顿",
+    "works" : [
+               {
+               "roles" : [
+                          "演员"
+                          ],
+               "subject" : {
+               "rating" : {
+               "stars" : "00",
+               "average" : 0,
+               "min" : 0,
+               "max" : 10
+               },
+               "collect_count" : 1,
+               "images" : {
+               "small" : "http:\/\/img3.douban.com\/pics\/movie-default-small.gif",
+               "large" : "http:\/\/img3.douban.com\/pics\/movie-default-large.gif",
+               "medium" : "http:\/\/img3.douban.com\/pics\/movie-default-medium.gif"
+               },
+               "id" : "11502912",
+               "alt" : "http:\/\/movie.douban.com\/subject\/11502912\/",
+               "title" : "星图",
+               "subtype" : "movie",
+               "year" : "2014",
+               "original_title" : "Maps to the Stars"
+               }
+               },
+               {
+               "roles" : [
+                          "演员"
+                          ],
+               "subject" : {
+               "rating" : {
+               "stars" : "00",
+               "average" : 0,
+               "min" : 0,
+               "max" : 10
+               },
+               "collect_count" : 3,
+               "images" : {
+               "small" : "http:\/\/img3.douban.com\/view\/photo\/icon\/public\/p2008008472.jpg",
+               "large" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/lpst\/public\/p2008008472.jpg",
+               "medium" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/spst\/public\/p2008008472.jpg"
+               },
+               "id" : "4837989",
+               "alt" : "http:\/\/movie.douban.com\/subject\/4837989\/",
+               "title" : "塞林格",
+               "subtype" : "movie",
+               "year" : "2013",
+               "original_title" : "Salinger"
+               }
+               },
+               {
+               "roles" : [
+                          "演员"
+                          ],
+               "subject" : {
+               "rating" : {
+               "stars" : "00",
+               "average" : 0,
+               "min" : 0,
+               "max" : 10
+               },
+               "collect_count" : 25,
+               "images" : {
+               "small" : "http:\/\/img3.douban.com\/view\/photo\/icon\/public\/p1993280846.jpg",
+               "large" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/lpst\/public\/p1993280846.jpg",
+               "medium" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/spst\/public\/p1993280846.jpg"
+               },
+               "id" : "6753091",
+               "alt" : "http:\/\/movie.douban.com\/subject\/6753091\/",
+               "title" : "冰封之地",
+               "subtype" : "movie",
+               "year" : "2013",
+               "original_title" : "The Frozen Ground"
+               }
+               },
+               {
+               "roles" : [
+                          "演员"
+                          ],
+               "subject" : {
+               "rating" : {
+               "stars" : "00",
+               "average" : 0,
+               "min" : 0,
+               "max" : 10
+               },
+               "collect_count" : 4,
+               "images" : {
+               "small" : "http:\/\/img3.douban.com\/view\/photo\/icon\/public\/p1993372611.jpg",
+               "large" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/lpst\/public\/p1993372611.jpg",
+               "medium" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/spst\/public\/p1993372611.jpg"
+               },
+               "id" : "3292949",
+               "alt" : "http:\/\/movie.douban.com\/subject\/3292949\/",
+               "title" : "白宫管家",
+               "subtype" : "movie",
+               "year" : "2013",
+               "original_title" : "Lee Daniels' The Butler"
+               }
+               },
+               {
+               "roles" : [
+                          "演员"
+                          ],
+               "subject" : {
+               "rating" : {
+               "stars" : "30",
+               "average" : 5.3,
+               "min" : 0,
+               "max" : 10
+               },
+               "collect_count" : 1628,
+               "images" : {
+               "small" : "http:\/\/img4.douban.com\/spic\/s24978808.jpg",
+               "large" : "http:\/\/img4.douban.com\/lpic\/s24978808.jpg",
+               "medium" : "http:\/\/img4.douban.com\/mpic\/s24978808.jpg"
+               },
+               "id" : "4915122",
+               "alt" : "http:\/\/movie.douban.com\/subject\/4915122\/",
+               "title" : "绝命密码站",
+               "subtype" : "movie",
+               "year" : "2013",
+               "original_title" : "The Numbers Station"
+               }
+               }
+               ],
+    "id" : "1018986",
+    "mobile_url" : "http:\/\/movie.douban.com\/celebrity\/1018986\/mobile",
+    "name" : "约翰·库萨克",
+    "avatars" : {
+        "small" : "http:\/\/img3.douban.com\/img\/celebrity\/small\/5486.jpg",
+        "large" : "http:\/\/img3.douban.com\/img\/celebrity\/large\/5486.jpg",
+        "medium" : "http:\/\/img3.douban.com\/img\/celebrity\/medium\/5486.jpg"
+    }
+}

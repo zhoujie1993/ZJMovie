@@ -1,0 +1,283 @@
+{
+    "date" : "8月2日 - 8月4日",
+    "subjects" : [
+                  {
+                      "box" : 27361000,
+                      "new" : true,
+                      "subject" : {
+                          "rating" : {
+                              "stars" : "40",
+                              "average" : 7.3,
+                              "min" : 0,
+                              "max" : 10
+                          },
+                          "collect_count" : 49,
+                          "images" : {
+                              "small" : "http:\/\/img3.douban.com\/view\/photo\/icon\/public\/p1943399384.jpg",
+                              "large" : "http:\/\/img3.douban.com\/view\/photo\/photo\/public\/p1943399384.jpg",
+                              "medium" : "http:\/\/img3.douban.com\/view\/photo\/thumb\/public\/p1943399384.jpg"
+                          },
+                          "id" : "3170961",
+                          "alt" : "http:\/\/movie.douban.com\/subject\/3170961\/",
+                          "title" : "双枪",
+                          "subtype" : "movie",
+                          "year" : "2013",
+                          "original_title" : "2 Guns"
+                      },
+                      "rank" : 1
+                  },
+                  
+                  
+                  {
+                  "box" : 21725000,
+                  "new" : false,
+                  "subject" : {
+                  "rating" : {
+                  "stars" : "35",
+                  "average" : 6.5,
+                  "min" : 0,
+                  "max" : 10
+                  },
+                  "collect_count" : 2587,
+                  "images" : {
+                  "small" : "http:\/\/img3.douban.com\/view\/photo\/icon\/public\/p1915742546.jpg",
+                  "large" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/lpst\/public\/p1915742546.jpg",
+                  "medium" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/spst\/public\/p1915742546.jpg"
+                  },
+                  "id" : "3718424",
+                  "alt" : "http:\/\/movie.douban.com\/subject\/3718424\/",
+                  "title" : "金刚狼2",
+                  "subtype" : "movie",
+                  "year" : "2013",
+                  "original_title" : "The Wolverine"
+                  },
+                  "rank" : 2
+                  },
+                  {
+                  "box" : 18200000,
+                  "new" : true,
+                  "subject" : {
+                  "rating" : {
+                  "stars" : "35",
+                  "average" : 6.7,
+                  "min" : 0,
+                  "max" : 10
+                  },
+                  "collect_count" : 120,
+                  "images" : {
+                  "small" : "http:\/\/img3.douban.com\/view\/photo\/icon\/public\/p1981956346.jpg",
+                  "large" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/lpst\/public\/p1981956346.jpg",
+                  "medium" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/spst\/public\/p1981956346.jpg"
+                  },
+                  "id" : "6870493",
+                  "alt" : "http:\/\/movie.douban.com\/subject\/6870493\/",
+                  "title" : "蓝精灵2",
+                  "subtype" : "movie",
+                  "year" : "2013",
+                  "original_title" : "The Smurfs 2"
+                  },
+                  "rank" : 3
+                  },
+                  {
+                  "box" : 13660000,
+                  "new" : false,
+                  "subject" : {
+                  "rating" : {
+                  "stars" : "40",
+                  "average" : 7.7,
+                  "min" : 0,
+                  "max" : 10
+                  },
+                  "collect_count" : 2657,
+                  "images" : {
+                  "small" : "http:\/\/img3.douban.com\/view\/photo\/icon\/public\/p1936517673.jpg",
+                  "large" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/lpst\/public\/p1936517673.jpg",
+                  "medium" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/spst\/public\/p1936517673.jpg"
+                  },
+                  "id" : "3804629",
+                  "alt" : "http:\/\/movie.douban.com\/subject\/3804629\/",
+                  "title" : "招魂",
+                  "subtype" : "movie",
+                  "year" : "2013",
+                  "original_title" : "The Conjuring"
+                  },
+                  "rank" : 4
+                  },
+                  {
+                  "box" : 10391000,
+                  "new" : false,
+                  "subject" : {
+                  "rating" : {
+                  "stars" : "45",
+                  "average" : 8.300000000000001,
+                  "min" : 0,
+                  "max" : 10
+                  },
+                  "collect_count" : 29868,
+                  "images" : {
+                  "small" : "http:\/\/img3.douban.com\/view\/photo\/icon\/public\/p1997952346.jpg",
+                  "large" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/lpst\/public\/p1997952346.jpg",
+                  "medium" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/spst\/public\/p1997952346.jpg"
+                  },
+                  "id" : "4915857",
+                  "alt" : "http:\/\/movie.douban.com\/subject\/4915857\/",
+                  "title" : "卑鄙的我2",
+                  "subtype" : "movie",
+                  "year" : "2013",
+                  "original_title" : "Despicable Me 2"
+                  },
+                  "rank" : 5
+                  },
+                  {
+                  "box" : 8100000,
+                  "new" : false,
+                  "subject" : {
+                  "rating" : {
+                  "stars" : "35",
+                  "average" : 6.7,
+                  "min" : 0,
+                  "max" : 10
+                  },
+                  "collect_count" : 182,
+                  "images" : {
+                  "small" : "http:\/\/img3.douban.com\/view\/photo\/icon\/public\/p1896508797.jpg",
+                  "large" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/lpst\/public\/p1896508797.jpg",
+                  "medium" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/spst\/public\/p1896508797.jpg"
+                  },
+                  "id" : "10577681",
+                  "alt" : "http:\/\/movie.douban.com\/subject\/10577681\/",
+                  "title" : "长大成人2",
+                  "subtype" : "movie",
+                  "year" : "2013",
+                  "original_title" : "Grown Ups 2"
+                  },
+                  "rank" : 6
+                  },
+                  {
+                  "box" : 6400000,
+                  "new" : false,
+                  "subject" : {
+                  "rating" : {
+                  "stars" : "40",
+                  "average" : 7.3,
+                  "min" : 0,
+                  "max" : 10
+                  },
+                  "collect_count" : 211,
+                  "images" : {
+                  "small" : "http:\/\/img3.douban.com\/view\/photo\/icon\/public\/p1942193792.jpg",
+                  "large" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/lpst\/public\/p1942193792.jpg",
+                  "medium" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/spst\/public\/p1942193792.jpg"
+                  },
+                  "id" : "6070226",
+                  "alt" : "http:\/\/movie.douban.com\/subject\/6070226\/",
+                  "title" : "极速蜗牛",
+                  "subtype" : "movie",
+                  "year" : "2013",
+                  "original_title" : "Turbo"
+                  },
+                  "rank" : 7
+                  },
+                  {
+                  "box" : 5650000,
+                  "new" : false,
+                  "subject" : {
+                  "rating" : {
+                  "stars" : "40",
+                  "average" : 7.6,
+                  "min" : 0,
+                  "max" : 10
+                  },
+                  "collect_count" : 604,
+                  "images" : {
+                  "small" : "http:\/\/img3.douban.com\/view\/photo\/icon\/public\/p1971523187.jpg",
+                  "large" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/lpst\/public\/p1971523187.jpg",
+                  "medium" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/spst\/public\/p1971523187.jpg"
+                  },
+                  "id" : "7916027",
+                  "alt" : "http:\/\/movie.douban.com\/subject\/7916027\/",
+                  "title" : "赤焰战场2",
+                  "subtype" : "movie",
+                  "year" : "2013",
+                  "original_title" : "Red 2"
+                  },
+                  "rank" : 8
+                  },
+                  {
+                  "box" : 4725000,
+                  "new" : false,
+                  "subject" : {
+                  "rating" : {
+                  "stars" : "40",
+                  "average" : 7.9,
+                  "min" : 0,
+                  "max" : 10
+                  },
+                  "collect_count" : 625,
+                  "images" : {
+                  "small" : "http:\/\/img5.douban.com\/view\/photo\/icon\/public\/p1976902189.jpg",
+                  "large" : "http:\/\/img5.douban.com\/view\/movie_poster_cover\/lpst\/public\/p1976902189.jpg",
+                  "medium" : "http:\/\/img5.douban.com\/view\/movie_poster_cover\/spst\/public\/p1976902189.jpg"
+                  },
+                  "id" : "10774066",
+                  "alt" : "http:\/\/movie.douban.com\/subject\/10774066\/",
+                  "title" : "辣手警花",
+                  "subtype" : "movie",
+                  "year" : "2013",
+                  "original_title" : "The Heat"
+                  },
+                  "rank" : 9
+                  },
+                  {
+                  "box" : 4570000,
+                  "new" : false,
+                  "subject" : {
+                  "rating" : {
+                  "stars" : "40",
+                  "average" : 8.1,
+                  "min" : 0,
+                  "max" : 10
+                  },
+                  "collect_count" : 65228,
+                  "images" : {
+                  "small" : "http:\/\/img3.douban.com\/view\/photo\/icon\/public\/p2043625972.jpg",
+                  "large" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/lpst\/public\/p2043625972.jpg",
+                  "medium" : "http:\/\/img3.douban.com\/view\/movie_poster_cover\/spst\/public\/p2043625972.jpg"
+                  },
+                  "id" : "5323968",
+                  "alt" : "http:\/\/movie.douban.com\/subject\/5323968\/",
+                  "title" : "环太平洋",
+                  "subtype" : "movie",
+                  "year" : "2013",
+                  "original_title" : "Pacific Rim"
+                  },
+                  "rank" : 10
+                  },
+                  {
+                  "box" : 2850000,
+                  "new" : false,
+                  "subject" : {
+                  "rating" : {
+                  "stars" : "45",
+                  "average" : 8.300000000000001,
+                  "min" : 0,
+                  "max" : 10
+                  },
+                  "collect_count" : 89,
+                  "images" : {
+                  "small" : "http:\/\/img4.douban.com\/view\/photo\/icon\/public\/p1979072628.jpg",
+                  "large" : "http:\/\/img4.douban.com\/view\/movie_poster_cover\/lpst\/public\/p1979072628.jpg",
+                  "medium" : "http:\/\/img4.douban.com\/view\/movie_poster_cover\/spst\/public\/p1979072628.jpg"
+                  },
+                  "id" : "10745399",
+                  "alt" : "http:\/\/movie.douban.com\/subject\/10745399\/",
+                  "title" : "迷途知返",
+                  "subtype" : "movie",
+                  "year" : "2013",
+                  "original_title" : "The Way, Way Back"
+                  },
+                  "rank" : 11
+                  }
+                  ],
+    "title" : "豆瓣电影北美票房榜"
+}
