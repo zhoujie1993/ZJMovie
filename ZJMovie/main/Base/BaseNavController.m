@@ -22,6 +22,7 @@
     //02设置导航栏背景图片会影响透明度
     [self.navigationBar setBackgroundImage:[UIImage imageNamed:@"nav_bg_all-64"] forBarMetrics:UIBarMetricsDefault];
     //self.navigationController.navigationBar.translucent = YES;
+    
 
     
 }

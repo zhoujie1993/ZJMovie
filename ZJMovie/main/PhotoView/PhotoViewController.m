@@ -62,15 +62,10 @@
     _collectionView.imageUrlArray = _imageUrlArray;
     
 }
-- (void)_createNavigation{
-    
-    
+- (void)_createNavigation
+{
+ 
     self.navigationItem.leftBarButtonItem = [[UIBarButtonItem alloc] initWithTitle:@"取消" style:UIBarButtonItemStylePlain target:self action:@selector(cancelAction)];
-
-    
-
-
-
 
 }
 - (void)cancelAction{
